@@ -1,2 +1,2 @@
-# python-projeccts
+# python-projects
 easy python projects 
