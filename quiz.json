@@ -1,0 +1,53 @@
+{
+    "geo": {
+        "q1": {
+            "question": "What is the capital of India?",
+            "options": ["a) New Delhi", "b) Mumbai", "c) Kolkata"],
+            "answer": "a"
+        },
+        "q2": {
+            "question": "What is the capital of the USA?",
+            "options": ["a) Texas", "b) Washington DC", "c) Alaska"],
+            "answer": "b"
+        },
+        "q3": {
+            "question": "What is the capital of France?",
+            "options": ["a) Lyon", "b) Paris", "c) Bordeaux"],
+            "answer": "b"
+        }
+    },
+    "phy": {
+        "q1": {
+            "question": "What is the SI unit of force?",
+            "options": ["a) Joule", "b) Watt", "c) Newton"],
+            "answer": "c"
+        },
+        "q2": {
+            "question": "Which of the following is a scalar quantity?",
+            "options": ["a) Speed", "b) Force", "c) Momentum"],
+            "answer": "a"
+        },
+        "q3": {
+            "question": "Which law states 'Every action has an equal and opposite reaction'?",
+            "options": ["a) Newton's First Law", "b) Newton's Third Law", "c) Newton's Second Law"],
+            "answer": "b"
+        }
+    },
+    "math": {
+        "q1": {
+            "question": "What is the value of (2+3) * 4?",
+            "options": ["a) 10", "b) 20", "c) 25"],
+            "answer": "b"
+        },
+        "q2": {
+            "question": "What is the square root of 81?",
+            "options": ["a) 6", "b) 8", "c) 9"],
+            "answer": "c"
+        },
+        "q3": {
+            "question": "What is 10 divided by 2?",
+            "options": ["a) 5", "b) 4", "c) 6"],
+            "answer": "a"
+        }
+    }
+}
